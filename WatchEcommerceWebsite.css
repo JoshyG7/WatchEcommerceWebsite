@@ -1,0 +1,295 @@
+.head h1{
+    display: inline-block;
+    color: rgb(247, 51, 84);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -10px;
+    margin-right: 450px;
+    margin-left: 90px;
+    padding-top:  14px;
+}
+.head a{
+padding-left: 10px;
+cursor: pointer;
+font-weight: bolder;
+color: white;
+text-decoration: none;
+}
+.head a:hover{
+    color: rgb(247, 51, 84);
+}
+.watch{
+    display: inline-block;
+    background-color: rgb(32, 19, 70);
+    padding-left: 90px;
+    padding-top: 90px;
+    width: 1104px;
+    height: 370px;
+}
+.watch img{
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding-right: 110px;
+    
+}
+.watch h1{
+    font-size: 57px;
+    display: inline-block;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
+}
+.watch p{
+    color: white;
+}
+.watch button{
+    color: rgb(247, 51, 84);
+    width: 110px;
+    height: 30px;
+    cursor: pointer;
+}
+.best h1{
+    color: white;
+    text-align: center;
+}
+.box h1, .heading h1, .fea h1, .our h1,.inf h1,.to h1,.que h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.box{
+    border-color: rgb(247, 51, 84);
+    border-width: 1.9px;
+    color: black;
+    border-style: solid;
+    display: inline-block;
+    margin-top: 17px;
+    margin-left: 16px;
+    cursor: pointer;
+}
+.best1, .about,.att, .pro, .us,.ax,.sub,.ask,.your,.ponno{
+    display: inline-block;
+    background-color: rgb(32, 19, 70);
+    padding-left: 90px;
+    padding-top: 90px;
+    width: 1104px;
+    height: 570px;
+}
+.box p{
+    margin-bottom: 0px;
+    text-align: center;
+}
+.box a{
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.box:hover{
+    background-color: rgb(255, 85, 0);
+}
+.heading p, .fea p,.our p,.inf p,.to p,.que p{
+    text-align: center;
+    color: white;
+}
+.info1 a, .box3 a{
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 0px;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info1 p, .box3 p{
+    color: white;
+    margin-top: 4px;
+    font-size: 15px;
+}
+.info h1{
+    display: inline-block;
+    position: absolute;
+    left: 140px;
+    margin-top: 0px;
+}
+.info{
+    margin-top: 70px;
+    margin-left: 110px;
+}
+.info img{
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding-right: 170px;
+    margin-top: -70px;
+}
+.box3{
+    display: inline-block;
+}
+.first h1{
+    position: absolute;
+    left: 100px;
+    margin-top: -3px;
+}
+.second h1{
+    position: absolute;
+    right: 210px;
+    margin-top: -3px;
+}
+.box3 img{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 400px;
+}
+.box5 img{
+    align-items: center;
+    padding-top: 10px;
+    height: 210px;
+    width: 200px;
+}
+.box5{
+    display: inline-block;
+    margin-left: 20px;
+    background-color: rgb(64, 45, 122);
+    width:210px;
+    height: 370px;
+    border-radius: 10px;
+    margin-top: 13px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+}
+.box5 a{
+    padding-left: 60px;
+    font-weight: bolder;
+    color: white;
+}
+.box5:hover, .box9:hover{
+    border-color: rgb(247, 51, 84);
+   border-style: solid;
+    border-width: 1.9px;
+}
+.box5 p,h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 7px;
+}
+.box5 button{
+    background-color: rgb(247, 51, 84);
+    color: white;
+    margin-left: 60px;
+    border-radius: 6px;
+}
+.vi{
+    width: 100px;
+    height: 100px;
+}
+.box8{
+    display: inline-block;
+    border-style: solid;
+    border-color: rgb(211, 168, 176);
+    color: white;
+    padding-right: 14px;
+    margin-top: 10px;
+    padding-right: 30px;
+    margin-left: 10px;
+}
+.box9{
+    border-radius: 20px;
+    background-color: rgb(64, 45, 122);
+    display: inline-block;
+    color: white;
+    height: 300px;
+    width: 400px;   
+    text-align: center;
+    margin-left: 18px;
+    margin-top: 20px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+}
+.input{
+    border-radius: 10px;
+    background-color: rgb(64, 45, 122);
+    height: 30px;
+    width: 800px;
+    margin-left: 40px;
+}
+.sub{
+    display: inline-block;
+    background-color: rgb(32, 19, 70);
+    padding-left: 90px;
+    padding-top: 90px;
+    width: 1104px;
+    height: 60px;
+}
+.box10 a{
+    font-weight: bolder;
+    color: white;
+    font-size: 19px;
+}
+.box10 p{
+    color: white;
+    font-size: 11px;
+    display: inline-block;
+}
+.box10{
+    background-color: rgb(64, 45, 122);
+    border-color: rgb(247, 51, 84);
+    border-style: solid;
+    border-width: 1.9px;
+    margin-top: 10px;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+.form{
+    background-color: rgb(64, 45, 122);
+    display: inline-block;
+    width: 500px;
+    height: 350px;
+}
+.contact{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -26px;
+}
+.form input{
+    width: 470px;
+    background-color: rgb(64, 45, 122);
+    margin-top: 20px;
+    border-radius: 2px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1.9px;
+    margin-left: 10px;
+    height: 30px;
+    color: white;
+}
+::-webkit-input-placeholder {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+  }
+  .ponno h1{
+    text-align: center;
+    color: rgb(247, 51, 84);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -10px;
+    padding-top:  14px;
+  }
+  .ponno p{
+    color: white;
+    text-align: center;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
